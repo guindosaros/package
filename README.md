@@ -1,1 +1,2 @@
-Bienvenue dans Notre Tutoriel de presentation des liste de package les Plus Utiles en django par Categorie 
+Bienvenue dans Notre Tutoriel de présentation des liste de packages les Plus Utiles en Django par Catégorie 
+> Package Relative a la partie Admin de Django
