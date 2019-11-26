@@ -38,3 +38,7 @@ Bienvenue dans Notre Tutoriel de présentation des liste de packages les Plus Ut
                )
   
       ```
+      - Ensuite exécute Les Commande suivante 
+        Run ```python python manage.py migrate ```
+        Run ```python python manage.py collectstatic ```
+        Redémarrez votre serveur 
