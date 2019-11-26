@@ -4,3 +4,4 @@ Bienvenue dans Notre Tutoriel de présentation des liste de packages les Plus Ut
  - ## Django-admin-interface
   
     django-admin-interface est une interface admin adaptable et personnalisable, basée sur un thème plat moderne, elle vous permet de         personnaliser le titre, le logo et les couleurs de l'administrateur en fonction de l'administrateur lui-même. Fenêtres contextuelles       remplacées par des modaux.
+
