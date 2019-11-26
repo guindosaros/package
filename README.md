@@ -13,7 +13,9 @@ Bienvenue dans Notre Tutoriel de présentation des liste de packages les Plus Ut
     - NOUVEAU nom / marqueur de l'environnement
     - NOUVEAU sélecteur de langue
     - Optimisations de compatibilité / style pour:
-      * django-ckeditor
-      *  django-dynamic-raw-id
-      *  traduction django-model
-      * django-tabbed-admin
+      *django-ckeditor
+      *django-dynamic-raw-id
+      *traduction django-model
+      *django-tabbed-admin
+      *sorl-thumbnail
+      
