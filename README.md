@@ -13,11 +13,11 @@ Bienvenue dans Notre Tutoriel de présentation des liste de packages les Plus Ut
     - NOUVEAU nom / marqueur de l'environnement
     - NOUVEAU sélecteur de langue
     - Optimisations de compatibilité / style pour:
-      * django-ckeditor
-      * django-dynamic-raw-id
-      * traduction django-model
-      * django-tabbed-admin
-      * sorl-thumbnail
+      *  ```python django-ckeditor ```
+      * ```python django-dynamic-raw-id ```
+      * ```python traduction django-model ```
+      * ```python django-tabbed-admin ```
+      * ```python sorl-thumbnail ```
     ### Exigences
       - Python 2.7, 3.4, 3.5, 3.6, 3.7
       - Django 1.7, 1.8, 1.9, 1.10, 1.11, 2.0, 2.1, 2.2
@@ -53,6 +53,6 @@ Bienvenue dans Notre Tutoriel de présentation des liste de packages les Plus Ut
     - Foundation theme:
     exécute ```python python manage.py loaddata admin_interface_theme_foundation.json```
 
-    - U.S. Web Design Standards theme:
+    - Web Design Standards theme:
     exécute ```python python manage.py loaddata admin_interface_theme_uswds.json```
-      
+ 
