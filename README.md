@@ -48,11 +48,13 @@ Bienvenue dans Notre Tutoriel de présentation des liste de packages les Plus Ut
      
     Django theme (default):
     - Bootstrap theme:
-    exécute ```python python manage.py loaddata admin_interface_theme_bootstrap.json```
+    exécute ``` python manage.py loaddata admin_interface_theme_bootstrap.json```
     
     - Foundation theme:
-    exécute ```python python manage.py loaddata admin_interface_theme_foundation.json```
+    exécute ``` python manage.py loaddata admin_interface_theme_foundation.json```
 
     - Web Design Standards theme:
-    exécute ```python python manage.py loaddata admin_interface_theme_uswds.json```
- 
+    exécute ``` python manage.py loaddata admin_interface_theme_uswds.json```
+    
+  ## Capture de DJango-admin Interface
+
