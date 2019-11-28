@@ -18,11 +18,11 @@ Bienvenue dans Notre Tutoriel de présentation des liste de packages les Plus Ut
       * traduction django-model
       * django-tabbed-admin
       * sorl-thumbnail
-     ### Exigences
+    ### Exigences
       - Python 2.7, 3.4, 3.5, 3.6, 3.7
       - Django 1.7, 1.8, 1.9, 1.10, 1.11, 2.0, 2.1, 2.2
      
-     ### Installation
+    ### Installation
      - Exécute la commande dans votre console ```python  pip install django-admin-interface ```
      - Ajouter dans ```python  INSTALLED_APPS ``` Du Setting de Votre projet  ```python  admin_interface , flat_responsive, flat,               colorfield ```  Avant  ```python  django.contrib.admin ```
       ```python  
@@ -39,6 +39,20 @@ Bienvenue dans Notre Tutoriel de présentation des liste de packages les Plus Ut
   
       ```
       - Ensuite exécute Les Commande suivante 
-        Run ```python python manage.py migrate ```
-        Run ```python python manage.py collectstatic ```
-        Redémarrez votre serveur 
+        * exécute ```python python manage.py migrate ```
+        * exécute ```python python manage.py collectstatic ```
+        * Redémarrez votre serveur 
+       
+      ## Thèmes optionnels
+      Ce paquet est livré avec des thèmes optionnels, vous pouvez les installer à l’aide de la commande loaddata admin. Les thèmes             facultatifs sont activés lors de l'installation.
+     
+    Django theme (default):
+    - Bootstrap theme:
+    exécute ```python python manage.py loaddata admin_interface_theme_bootstrap.json```
+    
+    - Foundation theme:
+    exécute ```python python manage.py loaddata admin_interface_theme_foundation.json```
+
+    - U.S. Web Design Standards theme:
+    exécute ```python python manage.py loaddata admin_interface_theme_uswds.json```
+      
