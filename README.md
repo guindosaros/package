@@ -73,16 +73,16 @@ Bienvenue dans Notre Tutoriel de présentation des liste de packages les Plus Ut
   # django-material-admin
    ![ alt text](https://github.com/guindosaros/package/blob/master/ImagePackage/35631521-64b0cab8-06a4-11e8-8f57-c04fdfbb7e8b.gif)
    
-    django-material-admine est une interface admin adaptable et personnalisable, basée sur un thème De mb Boostrap et permet de 
-    personnaliser l'admin de Django
+  django-material-admine est une interface admin adaptable et personnalisable, basée sur un thème De mb Boostrap et permet de 
+  personnaliser l'admin de Django
     
-   #### Installation
-     - Exécute la commande dans votre console ```pip install django-material-admin```
-     - Ajouter dans ```python  INSTALLED_APPS ``` Du Setting de Votre projet  ```python   django-material-admin  ```  Avant  ```python  django.contrib.admin ```
-      ```python  
-        INSTALLED_APPS = (
-                  'material.admin',
-                  'django.contrib.admin',
-               )
+#### Installation
+- Exécute la commande dans votre console ```pip install django-material-admin```
+- Ajouter dans ```python  INSTALLED_APPS ``` Du Setting de Votre projet  ```python   django-material-admin  ```  Avant  ```python  django.contrib.admin ```
+```python  
+      INSTALLED_APPS = (
+        'material.admin',
+        'django.contrib.admin',
+      )
   
-      ```
+```
