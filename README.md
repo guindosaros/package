@@ -57,4 +57,14 @@ Bienvenue dans Notre Tutoriel de présentation des liste de packages les Plus Ut
     exécute ``` python manage.py loaddata admin_interface_theme_uswds.json```
      
   #### Capture de DJango-admin Interface
+  ##### Interface De Connexion
+   ![ alt text](https://github.com/guindosaros/package/blob/master/ImagePackage/55c8d4ba-8df1-11e5-9568-00fdc987ede8.gif)
+   
+  ##### Tableau de Bord Admin Interface
+   ![ alt text](https://github.com/guindosaros/package/blob/master/ImagePackage/dash.gif)
+  
+  ##### Gestion des thèmes administratifs
+   ![ alt text](https://github.com/guindosaros/package/blob/master/ImagePackage/6cd1c342-8df1-11e5-928b-f22217474d3d.gif)
 
+  ##### Personnalisation du thème administrateur
+   ![ alt text](https://github.com/guindosaros/package/blob/master/ImagePackage/7350d942-8df1-11e5-9b28-f2f54c333cdc.gif)
