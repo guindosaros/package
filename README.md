@@ -55,6 +55,6 @@ Bienvenue dans Notre Tutoriel de présentation des liste de packages les Plus Ut
 
     - Web Design Standards theme:
     exécute ``` python manage.py loaddata admin_interface_theme_uswds.json```
-    
+     
   #### Capture de DJango-admin Interface
 
